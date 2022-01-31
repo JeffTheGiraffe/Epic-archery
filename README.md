@@ -1,2 +1,1 @@
-# Epic-archery
-don't miss!
+# project-c23-template
